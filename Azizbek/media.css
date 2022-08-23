@@ -1,0 +1,9 @@
+/* for mobile devices */
+@media (max-width: 767px) {
+    .bot{
+       
+        position: relative;
+        top: 580px;
+    }
+
+}
